@@ -4,6 +4,7 @@ Convert imagenet images to tfrecord file
 
 ## Recommended Directory Structure for Training and Evaluation
 
+```
 |--data/
      |--Annotation/
           |--n04409515/
@@ -13,6 +14,7 @@ Convert imagenet images to tfrecord file
                ....................
                |--n04409515_6862.xml
                |--n04409515_6900.xml
+```
 
 ## convert annotation files to csv file
 
